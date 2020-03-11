@@ -1,0 +1,19 @@
+
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 23.9999 0 23.9999"></polygon>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product-list-copy-3" transform="translate(-239.000000, -13.000000)">
+            <g id="Group-3" transform="translate(239.000000, 13.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M24,23.2799 L23.28,23.9999 L15.68,16.3999 C14,17.8799 11.84,18.7999 9.4,18.7999 C4.2,18.7999 0,14.5999 0,9.3999 C0,4.1999 4.2,-0.0001 9.4,-0.0001 C14.6,-0.0001 18.8,4.1999 18.8,9.3999 C18.8,11.7999 17.88,13.9999 16.4,15.6799 L24,23.2799 Z M17.8,9.3999 C17.8,4.7599 14.04,1.0399 9.44,1.0399 C4.8,1.0399 1.08,4.7999 1.08,9.3999 C1.08,14.0399 4.84,17.7599 9.44,17.7599 C14.04,17.7999 17.8,14.0399 17.8,9.3999 L17.8,9.3999 Z" id="Fill-1" fill="#A72B2A" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
